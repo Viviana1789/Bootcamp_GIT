@@ -1,2 +1,2 @@
 
-Desafio para probar habilidades con GIT
+Desafio para probar mis nuevas habilidades con GIT al crear una rama
