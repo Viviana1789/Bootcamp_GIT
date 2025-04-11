@@ -1,2 +1,3 @@
 
-Desafio para probar mis nuevas habilidades con GIT sigo en mail
+
+Desafio para probar mis nuevas habilidades con GIT sigo en main y merge con rama 2
